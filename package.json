@@ -3,9 +3,11 @@
   "version": "0.1.0",
   "private": true,
   "dependencies": {
+    "eslint": "^4.19.1",
     "react": "^16.8.6",
     "react-dom": "^16.8.6",
-    "react-scripts-parcel": "0.0.38"
+    "react-scripts-parcel": "0.0.38",
+    "styled-components": "^4.2.0"
   },
   "scripts": {
     "start": "react-scripts-parcel start",
@@ -25,5 +27,8 @@
       "Firefox ESR",
       "not ie < 11"
     ]
+  },
+  "devDependencies": {
+    "babel-core": "^6.26.3"
   }
 }
