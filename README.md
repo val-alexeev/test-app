@@ -41,3 +41,4 @@ Feel free to create new files to help you complete these tasks. Please ask befor
 - If you were to continue this application, what would you add?
 - If you were to deploy this application (or any web application) to production, how would you personally do it?
 - Finally, what did you think of the test? 😀
+
